@@ -6,6 +6,11 @@ This is a project for Artificial Intelligence course at International University
 ## Member
 - Vũ Quốc Khánh - ITCSIU24039
 
+## Technologies
+- Python
+- Pytorch
+- Tensorflow
+
 ## Dependencies
 - [uv](https://docs.astral.sh/uv/)
 
